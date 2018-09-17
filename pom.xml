@@ -160,8 +160,8 @@
         <url>http://144.38.200.132:8080/manager/text</url> 
         <warFile>target\spring-petclinic-1.5.1.war</warFile> 
         <path>/petclinic</path> 
-	<username>mtyler</username>
-        <password>Ratman07</password>
+	<username>admin</username>
+        <password>Cloud@123</password>
         </configuration> 
         </plugin> 
 
